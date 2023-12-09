@@ -71,6 +71,7 @@ background-color: #fff;
   padding: 2%;
   margin-bottom: 20px;
   border: none;
+  font-weight: bold;
   border-bottom: 1px solid black;
   
 }
@@ -81,7 +82,9 @@ background-color: #fff;
     margin-bottom: 20px;
     border: none;
     border-bottom: 1px solid black;
+    font-weight: bold;
   }
+
   input:focus {
     outline: none;
     border: none; 
